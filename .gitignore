@@ -1,0 +1,16 @@
+logs
+*.log
+npm-debug.log*
+CODEDUMP.txt
+*.lnk
+uploads/*.*
+client_bk
+.env
+
+node_modules
+jspm_packages
+typings
+
+.npm
+
+.node_repl_history
